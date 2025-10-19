@@ -4,4 +4,4 @@
 - ☁️ Building Azure & AWS projects with Terraform, Python, and Docker  
 - 🧬 Learning to combine cloud automation with genomics data analysis  
 - ☕ Functioning at 90% caffeine and curiosity  
-- 🌀Pretending not have used LLMs for writing the above
+- 🌀Pretending not to have used LLMs for writing the above
