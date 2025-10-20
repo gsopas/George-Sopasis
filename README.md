@@ -5,3 +5,7 @@
 - 🧬 Learning to combine cloud automation with genomics data analysis  
 - ☕ Functioning at 90% caffeine and curiosity  
 - 🌀Pretending not to have used LLMs for writing the above
+
+
+
+🧩  [LinkedIn](https://linkedin.com/in/george-sopasis) 
