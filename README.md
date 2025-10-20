@@ -6,6 +6,8 @@
 - ☕ Functioning at 90% caffeine and curiosity  
 - 🌀Pretending not to have used LLMs for writing the above
 
+### 🛠️ Tech Stack
+![vanilla static site] (https://ambitious-sea-0ef35ab10.3.azurestaticapps.net)
 
 
 🧩  [LinkedIn](https://linkedin.com/in/george-sopasis) 
