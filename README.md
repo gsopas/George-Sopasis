@@ -8,6 +8,7 @@
 
 ### 🛠️ Tech Stack
 ![vanilla static site] (https://ambitious-sea-0ef35ab10.3.azurestaticapps.net)
+![Heidy Static Web Site] (https://delightful-grass-043eb1d00.3.azurestaticapps.net)
 ![Azure function (empty)] (https://test001app-f2fadzezgdb8dca3.australiaeast-01.azurewebsites.net/)
 
 
