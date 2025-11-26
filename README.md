@@ -13,7 +13,7 @@
 
 [Materials properties and AI chatbot. Wait for server activation] (https://gsopas.github.io/materials-explainer-frontend/)
 
-[Genomics: guanine and cytosine percentage in DNA sequence |Azure Cloud] (https://agreeable-sky-07f656810.3.azurestaticapps.net/)
+[Genomics: guanine and cytosine percentage in DNA sequence | Azure Cloud] (https://agreeable-sky-07f656810.3.azurestaticapps.net/)
 
 
 🧩  [LinkedIn](https://linkedin.com/in/george-sopasis) 
