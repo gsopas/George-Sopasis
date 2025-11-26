@@ -7,13 +7,13 @@
 
 
 ### 🛠️ Tech Stack
-[VERY vanilla static site] (https://ambitious-sea-0ef35ab10.3.azurestaticapps.net)
+[Simple calculator flask API via render] (https://genomics-cloud-start-bwwp.bolt.host/)
 
 [Mars weather from Curiosity spacecraft and AI chatbot. Wait for server activation] (https://gsopas.github.io/mars-maas-ai/)
 
 [Materials properties and AI chatbot. Wait for server activation] (https://gsopas.github.io/materials-explainer-frontend/)
 
-[Simple genomics flask API via render.com] (https://genomics-cloud-start-bwwp.bolt.host/)
+[Genomics: guanine and cytosine percentage in DNA sequence |Azure Cloud] (https://agreeable-sky-07f656810.3.azurestaticapps.net/)
 
 
 🧩  [LinkedIn](https://linkedin.com/in/george-sopasis) 
